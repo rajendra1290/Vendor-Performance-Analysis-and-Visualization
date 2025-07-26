@@ -54,4 +54,8 @@ The following key questions were explored and visualized using the dataset:
 These questions guided the design of both the EDA and the Power BI dashboard.
 
 
+##  Screenshots
 
+
+```markdown
+![Dashboard Overview](https://github.com/rajendra1290/uber-insights-dashboard/blob/main/Snapshot_3.png)
