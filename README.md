@@ -58,4 +58,4 @@ These questions guided the design of both the EDA and the Power BI dashboard.
 
 
 ```markdown
-![Dashboard Overview](https://github.com/rajendra1290/uber-insights-dashboard/blob/main/Snapshot_3.png)
+![Dashboard Overview]([https://github.com/rajendra1290/Vendor-Performance-Analysis-and-Visualization/blob/main/snapshot.pn]))
